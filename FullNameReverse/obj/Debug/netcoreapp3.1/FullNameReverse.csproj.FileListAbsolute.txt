@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\bin\Debug\netcoreapp3.1\FullNameReverse.exe
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\bin\Debug\netcoreapp3.1\FullNameReverse.deps.json
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\bin\Debug\netcoreapp3.1\FullNameReverse.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\bin\Debug\netcoreapp3.1\FullNameReverse.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\bin\Debug\netcoreapp3.1\FullNameReverse.dll
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\bin\Debug\netcoreapp3.1\FullNameReverse.pdb
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.dll
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.pdb
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Titpe21\WeekSevenAssignment\FullNameReverse\obj\Debug\netcoreapp3.1\FullNameReverse.csprojAssemblyReference.cache
